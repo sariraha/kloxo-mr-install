@@ -1,4 +1,4 @@
-# kloxo-mr-install
+# How To Install kloxo-mr
 
 Based on Kloxo by Mustafa Ramadhan
 
@@ -25,4 +25,4 @@ Login to Your Kloxo
 http://localhost:7778<br />
 https://localhost:777<br />
 
-Source: https://kmu.me/howto-install-kloxo-mr-hosting-control-panel-di-centos-7/
+
