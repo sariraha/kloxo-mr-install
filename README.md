@@ -25,4 +25,8 @@ Login to Your Kloxo
 http://localhost:7778<br />
 https://localhost:777<br />
 
+<a href="https://content.id">content.id</a>
+<a href="https://resort.id">resort</a>
+<a href="https://zero.id">zero.id</a>
+
 
